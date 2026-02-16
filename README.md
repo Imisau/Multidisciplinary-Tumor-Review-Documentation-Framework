@@ -65,8 +65,11 @@ ________________________________________
 -	The highest variability was observed in surgical and radiation oncology inputs
 
 Correlation analysis demonstrated a moderate positive relationship between MDT participation and documented clinical consensus.
+
 ### Registry interpretation:
 Inconsistent MDT documentation represents a governance and data quality risk, not merely a clinical workflow issue. MDT participation is a measurable registry performance indicator under CoC standards.
+
+**Focus On:** Improved documentation of clinical consensus, reduced coordination failures, and stronger alignment with CoC multidisciplinary care standards.
 ________________________________________
 # 2. Documentation Quality & QA Performance
 ![](https://github.com/Imisau/Multidisciplinary-Tumor-Review-Documentation-Framework/blob/main/MultiTumor2.png)
@@ -86,6 +89,8 @@ Regression analysis identified documentation QA score as a strong predictor of a
 
 ### Registry interpretation:
 Documentation risk clusters around case complexity, indicating the need for risk-based QA strategies rather than uniform sampling.
+
+**Focus On:** Higher audit pass rates, more efficient use of registry staff time, and earlier identification of systemic documentation weaknesses
 ________________________________________
 # 3. Guideline Adherence & Clinical Context
 ![](https://github.com/Imisau/Multidisciplinary-Tumor-Review-Documentation-Framework/blob/main/MultiTumor3.png)
@@ -101,6 +106,8 @@ Correlation analysis showed that higher MDT participation was associated with im
 
 ### Registry interpretation:
 Lower concordance in advanced disease reflects legitimate clinical deviation and resource constraints. The registry’s role is to capture rationale, not to enforce rigid adherence.
+
+**Focus On:** More accurate representation of real-world oncology decision-making and reduced false signals of “non-compliance” in complex cases 
 ________________________________________
 # 4. Time-to-Treatment Performance
 ![](https://github.com/Imisau/Multidisciplinary-Tumor-Review-Documentation-Framework/blob/main/MultiTumor4.png)
@@ -121,6 +128,8 @@ ________________________________________
 Regression analysis showed MDT participation and documentation quality to be significant predictors of treatment timeliness.
 ### Registry interpretation:
 Treatment delays are primarily system coordination failures, aligning with LMIC oncology system challenges related to information flow and resource availability.
+
+**Focus On:** Reduced critical treatment delays and improved system responsiveness in resource-limited environments.
 ________________________________________
 # 5. Composite QA & Audit Readiness
 ![](https://github.com/Imisau/Multidisciplinary-Tumor-Review-Documentation-Framework/blob/main/MultiTumor5.png)
@@ -135,6 +144,8 @@ Composite QA scores demonstrated strong relationships with MDT completeness, doc
 
 ### Registry interpretation:
 Quality dimensions are interdependent. Improvements in documentation and MDT participation reduce delay risk and strengthen audit outcomes simultaneously.
+
+**Focus On:** Simultaneous improvement across documentation quality, care coordination, and audit performance.
 ________________________________________
 # Conclusion
 This project demonstrates how cancer registries and HIS teams can use routine MDT documentation data to:
@@ -198,5 +209,5 @@ By applying variance, correlation, and regression thoughtfully, the registry bec
 
 - Establish the registry as an active system improvement function rather than a passive data repository
 
-  Interact with dataset [Here](
+  Interact with dataset [Here](https://github.com/Imisau/Multidisciplinary-Tumor-Review-Documentation-Framework/blob/main/multidisciplinary_tumor_review_dataset_10000.xlsx)
 

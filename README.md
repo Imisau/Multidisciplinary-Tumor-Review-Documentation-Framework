@@ -7,17 +7,17 @@ ________________________________________
 This portfolio project simulates a hospital-based cancer registry and multidisciplinary tumor board (MDT) documentation system using a 10,000-record oncology dataset. The project demonstrates how registry and health information systems (HIS) teams can use routine tumor board data to monitor data quality, clinical governance, and system performance, in alignment with NAACCR, Commission on Cancer (CoC), and LMIC oncology program standards.
 The analysis focuses on system behavior rather than individual clinician performance and applies variance, correlation, and regression analysis only where they meaningfully support operational decision-making.
 ________________________________________
-Standards Alignment
+# Standards Alignment
 This project is aligned to the following frameworks:
-•	NAACCR: Data completeness, internal consistency, documentation QA, audit readiness
-•	Commission on Cancer (CoC): Multidisciplinary tumor board participation, guideline adherence, care coordination
-•	LMIC Oncology Programs: Time-to-treatment monitoring, system bottleneck identification, resource-aware analytics
+-	NAACCR: Data completeness, internal consistency, documentation QA, audit readiness
+-	Commission on Cancer (CoC): Multidisciplinary tumor board participation, guideline adherence, care coordination
+-	LMIC Oncology Programs: Time-to-treatment monitoring, system bottleneck identification, resource-aware analytics
 ________________________________________
-Dataset Description
-•	Records: 10,000 multidisciplinary tumor review cases
-•	Cancer Types: Breast, Cervical, Prostate, Lung, Colorectal, Liver, Ovarian
-•	Stages: I–IV
-•	Key Dimensions:
+# Dataset Description
+-	Records: 10,000 multidisciplinary tumor review cases
+-	Cancer Types: Breast, Cervical, Prostate, Lung, Colorectal, Liver, Ovarian
+-	Stages: I–IV
+-	Key Dimensions:
 o	MDT participation by discipline
 o	Documentation completeness and QA flags
 o	Guideline concordance
